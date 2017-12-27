@@ -31,6 +31,8 @@ O modelo relacional tem sua origem em 1970 quando um matemático da IBM chamado 
 
 **Coeficiente**: É o fator multiplicativo de um termo em uma expressão, sendo geralmente um número, e que não se confunde com as variáveis da expressão.[1](https://pt.wikipedia.org/wiki/Coeficiente)
 
+**Cross-sectional study**: Ver estudo transversal.
+
 # D
 
 **Desvio padrão**: É definido como a raiz quadrada positiva da variância (Bussab et al, 2010). Em probabilidade, o desvio padrão ou desvio padrão populacional é uma medida de dispersão em torno da média populacional de uma variável aleatória. Em estatística, desvio padrão amostral indica uma medida de dispersão dos dados em torno de média amostral [1](https://pt.wikipedia.org/wiki/Desvio_padr%C3%A3o).
@@ -44,6 +46,12 @@ O modelo relacional tem sua origem em 1970 quando um matemático da IBM chamado 
 
 **Erro quadrático médio**: O erro quadrático médio ou desvio quadrático médio é uma medida do erro cometido ao estimar um observável [MSE](https://en.wikipedia.org/wiki/Mean_squared_error). Sejam ![eq1](http://www.sciweavers.org/tex2img.php?eq=%28x_i%2C%20%5Chat%7Bx%7D_i%29&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0) o i-ésimo valor observardo e o i-ésimo valor estimado, respectivamente, em um conjunto de N observações, 
 isto é, i = 1, 2, ..., N. O erro quadrático médio desse experimento é dado por ![eq2](http://www.sciweavers.org/tex2img.php?eq=%5Cfrac%7B1%7D%7BN%7D%20%5Csum_%7Bi%3D1%7D%5E%7BN%7D%20%28%5Chat%7Bx%7D_i%20-%20x_i%29%5E2&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0).
+
+**Estudo longitudinal**: Um estudo que segue uma população ao longo do tempo, coletando dados do mesmo grupo repetidamente (Downey, 2014).
+
+**Estudo transversal**: Um estudo que coleta dados sobre uma população em um momento particular no tempo (Downey, 2014).
+
+**Evidência anedótica**: Evidência, normalmente pessoal, coletada de forma casual e não por um estudo publicado (Downey, 2014).
 
 # F
 
@@ -105,6 +113,8 @@ Existem matrizes que apresentam maior utilidade e possuem um nome diferenciado (
 # N
 
 **NoSQL**: ver Banco de Dados Não-Relacional.
+
+**Novelty**: Anomalias não presentes num dado de treino, mas presentes em novas observações ([Sklearn](http://scikit-learn.org/stable/modules/outlier_detection.html)).
 
 # O
 
@@ -174,6 +184,8 @@ Behrens, J. T.. Principles and procedures of Exploratory Data Analysis. American
 Bussab, Wilton de O., and Pedro A. Morettin. Estatística básica. 8.ed. Página 41. Saraiva, 2010.
 
 CAMPOS, Guilherme Oliveira. Estudo, avaliação e comparação de técnicas de detecção não supervisionada de outliers. 2015. Dissertação (Mestrado em Ciências de Computação e Matemática Computacional) - Instituto de Ciências Matemáticas e de Computação, Universidade de São Paulo, São Carlos, 2015. doi:10.11606/D.55.2015.tde-04082015-084412. Acesso em: 2017-10-03.
+
+Downey, Allen. Think Stats: Exploratory Data Analysis in Python. 2014. Disponível [aqui](http://greenteapress.com/wp/think-stats-2e/)
 
 Fernandes, Anita Maria da Rocha. Inteligência Artificial: noções gerais. 1.ed. Florianópolis: Visual Books, 2003.
 
