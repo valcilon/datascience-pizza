@@ -126,7 +126,7 @@ Ver [este link](https://github.com/leportella/datascience-pizza/blob/master/topi
  - [Information is beautiful](https://informationisbeautiful.net/data/)
  - [Dados do Governo Brasileiro](http://dados.gov.br)
  - [Instituto de Pesquisa Econômica Aplicada](http://www.ipeadata.gov.br)
- - [Banco Central do Brasil](https://www3.bcb.gov.br)
+ - [Banco Central do Brasil](https://dadosabertos.bcb.gov.br/)
  - [Dados do Governo dos Estados Unidos](http://data.gov)
  - [Dados sobre as cidades dos EUA](http://datasf.org)
  - [Dados do Governo do Canadá (em inglês e francês)](http://open.canada.ca)
